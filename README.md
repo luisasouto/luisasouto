@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @luisasouto
 - 👀 I’m interested in REACT
 - 🌱 I’m currently learning Html, CSS, JS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me luisasouto63@gmail.com
 
 <!---
