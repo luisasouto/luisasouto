@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @luisasouto
+- 👋 Hi, I’m @luisasouto and I am a Junior Web Developer 
 - 👀 I’m interested in REACT
 - 🌱 I’m currently learning Html, CSS, JS
 - 📫 How to reach me luisasouto63@gmail.com
