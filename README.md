@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @luisasouto and I am a Junior Web Developer 
-- 👀 I’m interested in REACT
-- 🌱 I’m currently learning Html, CSS, JS
-- 📫 How to reach me luisasouto63@gmail.com
+olaa! me chamo @_luisasouto e sou desenvolvedora, atualmente trabalho com HTML, CSS, JS, PHP e integrações no WP
+para entrar em contato comigo pelo e-mail --> luisasouto63@gmail.com
 
 <!---
 luisasouto/luisasouto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
